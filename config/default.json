@@ -1,3 +1,4 @@
 {
-    "jsonPrivateKey": ""
+    "jsonPrivateKey": "",
+    "db": "mongodb://localhost/nodeAPIProject"
 }

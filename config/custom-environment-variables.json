@@ -1,3 +1,4 @@
 {
-    "jsonPrivateKey": "nodeAPIProject"
+    "jsonPrivateKey": "nodeAPIProject",
+    "db": "nodeAPIProjectDB"
 }
